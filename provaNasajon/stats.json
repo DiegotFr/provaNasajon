@@ -1,0 +1,16 @@
+{
+    "stats": {
+        "total_municipios": 9,
+        "total_ok": 9,
+        "total_nao_encontrado": 0,
+        "total_erro_api": 0,
+        "pop_total_ok": 30251494,
+        "medias_por_regiao": {
+            "Norte": 0.0,
+            "Nordeste": 1423889.0,
+            "Centro-Oeste": 3094325.0,
+            "Sudeste": 4650606.0,
+            "Sul": 1240125.0
+        }
+    }
+}
